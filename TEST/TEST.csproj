@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWPF>true</UseWPF>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+	<ItemGroup>
+	  <None Remove="kolobok.png" />
+	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Include="ClosedXML" Version="0.105.0" />
+	  <PackageReference Include="LiveChartsCore.SkiaSharpView.WPF" Version="2.0.0-rc3.3" />
+	  <PackageReference Include="Microsoft.Data.SqlClient" Version="6.1.3" />
+	  <PackageReference Include="Telegram.Bot" Version="22.7.5" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Resource Include="Images\kolobok.png" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Compile Update="PasswordWindow.xaml.cs">
+	    <Generator>MSBuild:Compile</Generator>
+	  </Compile>
+	</ItemGroup>
+</Project>
