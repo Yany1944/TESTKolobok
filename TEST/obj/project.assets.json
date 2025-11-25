@@ -2834,11 +2834,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Курсовая\\TEST — копия\\TEST\\TEST.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Курсовая\\TESTKolobok\\TEST\\TEST.csproj",
       "projectName": "TEST",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Курсовая\\TEST — копия\\TEST\\TEST.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Курсовая\\TESTKolobok\\TEST\\TEST.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Курсовая\\TEST — копия\\TEST\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Курсовая\\TESTKolobok\\TEST\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

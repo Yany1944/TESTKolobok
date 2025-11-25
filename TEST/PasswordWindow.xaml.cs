@@ -223,8 +223,6 @@ namespace TEST
 
         #endregion
 
-
-
         #region Публичные методы
 
         /// <summary>

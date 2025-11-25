@@ -1,74 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\exporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\exporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\charthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\charthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\custommessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\custommessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\passwordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\passwordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\passwordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\passwordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\passwordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\telegrambotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\telegrambotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\fieldnamehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\fieldnamehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\fieldnamehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\custommessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\custommessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\telegramlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\telegramlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\charthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\charthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\test.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\test.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\custommessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\custommessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\addrecorddialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\addrecorddialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\addrecorddialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\test \u2014 \u043A\u043E\u043F\u0438\u044F\\test\\addrecorddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\addrecorddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\addrecorddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\telegramlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\telegramlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\telegrambotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\telegrambotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\passwordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\passwordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\exporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\exporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\custommessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\custommessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|c:\\users\\admin\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\testkolobok\\test\\test.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2E51D659-3BA6-42B9-A487-2B5E578CA25C}|TEST\\TEST.csproj|solutionrelative:test\\test.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,15 +82,40 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "TelegramLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\TelegramLogger.cs",
+              "RelativeDocumentMoniker": "TEST\\TelegramLogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\TelegramLogger.cs",
+              "RelativeToolTip": "TEST\\TelegramLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:23:52.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\PasswordWindow.xaml",
+              "RelativeDocumentMoniker": "TEST\\PasswordWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\PasswordWindow.xaml",
+              "RelativeToolTip": "TEST\\PasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-23T16:24:09.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TEST\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\MainWindow.xaml",
               "RelativeToolTip": "TEST\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-23T15:58:56.009Z",
@@ -94,59 +123,125 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "CustomMessageBox.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\CustomMessageBox.xaml",
+              "RelativeDocumentMoniker": "TEST\\CustomMessageBox.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\CustomMessageBox.xaml",
+              "RelativeToolTip": "TEST\\CustomMessageBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-23T16:34:34.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\App.xaml",
+              "RelativeDocumentMoniker": "TEST\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\App.xaml",
+              "RelativeToolTip": "TEST\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-23T16:14:39.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddRecordDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\AddRecordDialog.xaml",
+              "RelativeDocumentMoniker": "TEST\\AddRecordDialog.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\AddRecordDialog.xaml",
+              "RelativeToolTip": "TEST\\AddRecordDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-23T17:38:39.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddRecordDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\AddRecordDialog.xaml.cs",
+              "RelativeDocumentMoniker": "TEST\\AddRecordDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\AddRecordDialog.xaml.cs",
+              "RelativeToolTip": "TEST\\AddRecordDialog.xaml.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAcwAcBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:33:21.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ChartHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\ChartHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\ChartHelper.cs",
               "RelativeDocumentMoniker": "TEST\\ChartHelper.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\ChartHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\ChartHelper.cs",
               "RelativeToolTip": "TEST\\ChartHelper.cs",
-              "ViewState": "AgIAAIMBAAAAAAAAAAAuwJYBAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-23T17:31:55.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PasswordWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\PasswordWindow.xaml.cs",
-              "RelativeDocumentMoniker": "TEST\\PasswordWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\PasswordWindow.xaml.cs",
-              "RelativeToolTip": "TEST\\PasswordWindow.xaml.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAmwN0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FieldNameHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\FieldNameHelper.cs",
+              "RelativeDocumentMoniker": "TEST\\FieldNameHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\FieldNameHelper.cs",
+              "RelativeToolTip": "TEST\\FieldNameHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgBAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T16:24:55.97Z"
+              "WhenOpened": "2025-11-23T17:37:12.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "TelegramBotService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\TelegramBotService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\TelegramBotService.cs",
               "RelativeDocumentMoniker": "TEST\\TelegramBotService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\TelegramBotService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\TelegramBotService.cs",
               "RelativeToolTip": "TEST\\TelegramBotService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAMwDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T12:31:27.664Z"
+              "WhenOpened": "2025-11-24T12:31:27.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\App.xaml",
-              "RelativeDocumentMoniker": "TEST\\App.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\App.xaml",
-              "RelativeToolTip": "TEST\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-23T16:14:39.867Z"
+              "DocumentIndex": 10,
+              "Title": "PasswordWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\PasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TEST\\PasswordWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\PasswordWindow.xaml.cs",
+              "RelativeToolTip": "TEST\\PasswordWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:24:55.97Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TEST\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TEST\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAQwCkDAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:22:57.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ExportHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\ExportHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\ExportHelper.cs",
               "RelativeDocumentMoniker": "TEST\\ExportHelper.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\ExportHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\ExportHelper.cs",
               "RelativeToolTip": "TEST\\ExportHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,133 +250,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "TEST\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\MainWindow.xaml.cs",
-              "RelativeToolTip": "TEST\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAKcBAAAAAAAAAAAuwLcBAAANAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "CustomMessageBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\CustomMessageBox.xaml.cs",
+              "RelativeDocumentMoniker": "TEST\\CustomMessageBox.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\CustomMessageBox.xaml.cs",
+              "RelativeToolTip": "TEST\\CustomMessageBox.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T16:22:57.008Z",
+              "WhenOpened": "2025-11-23T17:28:55.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PasswordWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\PasswordWindow.xaml",
-              "RelativeDocumentMoniker": "TEST\\PasswordWindow.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\PasswordWindow.xaml",
-              "RelativeToolTip": "TEST\\PasswordWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-23T16:24:09.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomMessageBox.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\CustomMessageBox.xaml",
-              "RelativeDocumentMoniker": "TEST\\CustomMessageBox.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\CustomMessageBox.xaml",
-              "RelativeToolTip": "TEST\\CustomMessageBox.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-23T16:34:34.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TelegramLogger.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\TelegramLogger.cs",
-              "RelativeDocumentMoniker": "TEST\\TelegramLogger.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\TelegramLogger.cs",
-              "RelativeToolTip": "TEST\\TelegramLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T12:23:52.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\App.xaml.cs",
-              "RelativeDocumentMoniker": "TEST\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\App.xaml.cs",
-              "RelativeToolTip": "TEST\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsBAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T16:16:52.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FieldNameHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\FieldNameHelper.cs",
-              "RelativeDocumentMoniker": "TEST\\FieldNameHelper.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\FieldNameHelper.cs",
-              "RelativeToolTip": "TEST\\FieldNameHelper.cs",
-              "ViewState": "AgIAABoBAAAAAAAAAAAIwEsBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T17:37:12.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TEST.csproj.Backup.tmp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\TEST.csproj.Backup.tmp",
-              "RelativeDocumentMoniker": "TEST\\TEST.csproj.Backup.tmp",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\TEST.csproj.Backup.tmp",
-              "RelativeToolTip": "TEST\\TEST.csproj.Backup.tmp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-24T12:23:51.89Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "CustomMessageBox.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\CustomMessageBox.xaml.cs",
-              "RelativeDocumentMoniker": "TEST\\CustomMessageBox.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\CustomMessageBox.xaml.cs",
-              "RelativeToolTip": "TEST\\CustomMessageBox.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEBAAAAAAAAAAAAAA==",
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TEST\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\AssemblyInfo.cs",
+              "RelativeToolTip": "TEST\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T17:28:55.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TEST.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\TEST.csproj",
-              "RelativeDocumentMoniker": "TEST\\TEST.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\TEST.csproj",
-              "RelativeToolTip": "TEST\\TEST.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-23T16:26:26.328Z"
+              "WhenOpened": "2025-11-25T11:41:33.291Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "AddRecordDialog.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\AddRecordDialog.xaml.cs",
-              "RelativeDocumentMoniker": "TEST\\AddRecordDialog.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\AddRecordDialog.xaml.cs",
-              "RelativeToolTip": "TEST\\AddRecordDialog.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8BAAAAAAAAAAAAAA==",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TEST\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\App.xaml.cs",
+              "RelativeToolTip": "TEST\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T17:33:21.534Z"
+              "WhenOpened": "2025-11-23T16:16:52.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "AddRecordDialog.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\AddRecordDialog.xaml",
-              "RelativeDocumentMoniker": "TEST\\AddRecordDialog.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TEST \u2014 \u043A\u043E\u043F\u0438\u044F\\TEST\\AddRecordDialog.xaml",
-              "RelativeToolTip": "TEST\\AddRecordDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-23T17:38:39.16Z"
+              "Title": "TEST.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\TEST.csproj",
+              "RelativeDocumentMoniker": "TEST\\TEST.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\TEST.csproj",
+              "RelativeToolTip": "TEST\\TEST.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-23T16:26:26.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TEST.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\TEST.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "TEST\\TEST.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\TESTKolobok\\TEST\\TEST.csproj.Backup.tmp",
+              "RelativeToolTip": "TEST\\TEST.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-24T12:23:51.89Z"
             }
           ]
         }
