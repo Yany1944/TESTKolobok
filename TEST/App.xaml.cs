@@ -7,9 +7,9 @@ namespace TEST
     {
         #region Константы
 
-        private const string TELEGRAM_BOT_TOKEN = "8565216353:AAF3Ubv785DKJksO23xOz54Wb8_rucmC8vU";
-        private const string TELEGRAM_CHAT_ID = "5800872111";
-        private const string PASSWORD_URL = "https://pastebin.com/raw/Uz6vE8iw";
+        private const string TELEGRAM_BOT_TOKEN = "TOKEN_BOT";
+        private const string TELEGRAM_CHAT_ID = "CHAT_ID";
+        private const string PASSWORD_URL = "https://pastebin.com/raw/YOUR_PASSWORD_RAW";
         private const int MAX_LOGIN_ATTEMPTS = 3;
         private const string DEFAULT_USERNAME = "Администратор";
 
